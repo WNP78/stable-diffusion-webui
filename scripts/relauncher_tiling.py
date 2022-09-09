@@ -20,7 +20,7 @@ optimized_turbo = False
 share = False
 
 # Generate tiling images
-tiling = False
+tiling = True
 
 # Enter other `--arguments` you wish to use - Must be entered as a `--argument ` syntax
 additional_arguments = ""
